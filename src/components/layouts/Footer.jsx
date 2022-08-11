@@ -8,7 +8,7 @@ function Footer() {
     
 
   return (
-    <footer className='footer p-3 bg-gray-700 text-primary-content footer-center'>
+    <footer className='footer p-3 bg-gray-700 text-primary-content footer-center z-10'>
         <div>
             <FiTarget size="2em"></FiTarget>
             <p>Copyright &copy; {footerYear} </p>
